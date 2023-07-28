@@ -1,0 +1,62 @@
+
+		:root {
+
+			
+		  	--wpatThemeColor: #4777CD;
+			
+				
+				--wpatThemeColor-lighten-10: #5a85d2;
+				--wpatThemeColor-lighten-20: #6c93d7;
+				--wpatThemeColor-lighten-30: #7fa0dc;
+				--wpatThemeColor-lighten-40: #91aee1;
+				--wpatThemeColor-lighten-50: #a3bbe6;
+				--wpatThemeColor-lighten-60: #b6c9eb;
+				--wpatThemeColor-lighten-70: #c8d7f0;
+				--wpatThemeColor-lighten-80: #dbe4f5;
+				--wpatThemeColor-lighten-90: #edf2fa;
+			
+				
+				--wpatThemeColor-darken-10: #406cb9;
+				--wpatThemeColor-darken-20: #3960a4;
+				--wpatThemeColor-darken-30: #325490;
+				--wpatThemeColor-darken-40: #2b487b;
+				--wpatThemeColor-darken-50: #243c67;
+				--wpatThemeColor-darken-60: #1d3052;
+				--wpatThemeColor-darken-70: #16243e;
+				--wpatThemeColor-darken-80: #0f1829;
+				--wpatThemeColor-darken-90: #080c15;
+			
+				
+				--wpatThemeColor-fade-10: rgba(71,119,205,0.1);
+
+			
+			--wpatToolbarColor: #32373c;
+			
+				
+				--wpatToolbarColor-lighten-10: #474b50;
+				--wpatToolbarColor-lighten-90: #ebebec;
+
+			
+			--wpatGradientStartColor: rgb(84,92,99);
+
+			--wpatGradientEndColor: rgb(50,55,60);
+
+			--wpatSpacingMaxWidth: 2000px;
+
+			--wpatMenuLeftWidth: 160px;
+
+			--wpatMenuLeftWidthDiff: 120px;
+
+			--wpatLoginLogoSize: 100px;
+
+			--wpatToolbarIcon: url(../../../../uploads/2022/09/cropped-Crowe-Logo-PNG-1.png);
+
+			--wpatWebFont: none;
+
+			--wpatLoginBg: none;
+
+			--wpatLoginLogo: url(../../../../uploads/2022/09/cropped-Crowe-Logo-PNG-1.png);
+
+		}
+
+		
